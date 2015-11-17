@@ -1,0 +1,8 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_Divisible\150914_Divisible\bin\Debug\150914_Divisible.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_Divisible\150914_Divisible\bin\Debug\150914_Divisible.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_Divisible\150914_Divisible\bin\Debug\150914_Divisible.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_Divisible\150914_Divisible\obj\Debug\150914_Divisible.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_Divisible\150914_Divisible\obj\Debug\150914_Divisible.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150914_Divisible\150914_Divisible\bin\Debug\150914_Divisible.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150914_Divisible\150914_Divisible\obj\Debug\150914_Divisible.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150914_Divisible\150914_Divisible\obj\Debug\150914_Divisible.pdb
